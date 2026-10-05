@@ -1,0 +1,23 @@
+# Environments
+.env
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Mac OS folder attributes
+.DS_Store
+
+# Logs
+*.log
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
