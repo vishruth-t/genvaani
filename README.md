@@ -1,8 +1,8 @@
-# JanVaani: Call the Internet. Hear the Answer.
+# GenVaani: Call the Internet. Hear the Answer.
 
-![JanVaani Architecture](https://via.placeholder.com/800x400.png?text=JanVaani+Architecture)
+![GenVaani Architecture](https://via.placeholder.com/800x400.png?text=GenVaani+Architecture)
 
-**JanVaani** is a production-quality, multilingual, voice-first AI phone agent built for the Sarvam AI Hackathon. 
+**GenVaani** is a production-quality, multilingual, voice-first AI phone agent built for the Sarvam AI Hackathon. 
 
 It allows anyone to dial a phone number, ask a question in their natural Indian language (including code-mixed speech), and hear a concise answer researched from multiple web sources. No app, no typing, and no digital literacy required.
 
